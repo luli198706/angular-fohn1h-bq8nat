@@ -14,7 +14,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.0.0",
-    "@angular/common": "^14.0.0",
+    "@angular/common": "^14.1.2",
     "@angular/compiler": "^14.0.0",
     "@angular/core": "^14.0.0",
     "@angular/forms": "^14.0.0",
@@ -39,7 +39,7 @@
     "karma": "~6.3.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.2.0",
-    "karma-jasmine": "~5.0.0",
+    "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "protractor": "~7.0.0",
     "ts-node": "~10.8.0",
